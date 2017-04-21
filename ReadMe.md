@@ -1,4 +1,4 @@
-[![ghit.me](https://ghit.me/badge.svg?repo=idonkeyliu/DevOps-Book)](https://ghit.me/repo/idonkeyliu/DevOps-Book)
+[![ghit.me](https://ghit.me/badge.svg?repo=Awesome-Windows/Awesome)](https://ghit.me/repo/Awesome-Windows/Awesome)
 
 ## 运维
 [故障复盘](http://mp.weixin.qq.com/s/6-zJmCXMJ-Rw0CuH9UWj2Q)
